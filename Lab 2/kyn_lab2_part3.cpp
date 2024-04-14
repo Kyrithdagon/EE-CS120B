@@ -1,12 +1,12 @@
 #include <Arduino.h>
-/* Your Name & E-mail: Sharon Lee ~ slee900@ucr.edu
+/* Your Name & E-mail:...
 
    Discussion Section: 024
    
    Assignment: Lab #2  Exercise #3
    
-   Exercise Description: Here, your program will prompt the user to select a bit (LED) 
-   from the output LEDs to mask and shift to the right-most LED.
+   Exercise Description: The program will display the user input in hexadecimal form on a 
+   one-digital 7-segment display.
    
    I acknowledge all content contained herein, excluding template or example code, 
    is my own original work. (For this lab, however, I will be using my code from lab 1.)
