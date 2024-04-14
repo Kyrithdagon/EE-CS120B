@@ -1,5 +1,5 @@
 #include <Arduino.h>
-/* Your Name & E-mail: Sharon Lee ~ slee900@ucr.edu
+/* Your Name & E-mail:...
 
    Discussion Section: 024
    
