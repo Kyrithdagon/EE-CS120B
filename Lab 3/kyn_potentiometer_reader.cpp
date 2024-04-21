@@ -1,3 +1,4 @@
+#include "Arduino.h"
 int potentiometer = A5;
 
 void setup(){
