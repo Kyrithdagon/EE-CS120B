@@ -1,12 +1,12 @@
 #include "Arduino.h"
-int photoresistor = A4; // Define the analog pin the photoresistor is connected to
+int photoresistor = A4;
 
 void setup() {
-  Serial.begin(9600); // Initialize serial communication for debugging
+  Serial.begin(9600);
 }
 
 void loop() {
-  int sensorValue = analogRead(photoresistor); // Read the analog value from the photoresistor
-  Serial.println(sensorValue); // Print the sensor value to the serial monitor
-  delay(1000); // Wait for a short time to avoid flooding the serial monitor
+  int sensorValue = analogRead(photoresistor); 
+  Serial.println(sensorValue);
+  delay(1000); 
 }
