@@ -3,9 +3,13 @@
 #include <util/delay.h>
 #include "timerISR.h"
 
+
+//WARNING: THIS CODE IS INCOMPLETE AND DOES NOT WORK
+
+
 //#include "serialATmega.h"
 
-/* Your Name & E-mail: Sharon Lee ~ slee900@ucr.edu
+/* Your Name & E-mail: ...
 
    Discussion Section: 024
    
